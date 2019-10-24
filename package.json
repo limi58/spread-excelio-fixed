@@ -1,0 +1,18 @@
+{
+  "name": "spread-excelio-fixed",
+  "version": "1.0.0",
+  "description": "output when use `@grapecity/spread-excelio`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@grapecity/spread-sheets": "12.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limi58/enjoyVideo/spread-excelio-fixed"
+  },
+  "author": "",
+  "license": "ISC"
+}
